@@ -48,4 +48,9 @@ The dataset contains order information including product details, customer infor
 - `README.md` – This file
 
 ---
+# ⚠️ Archived Repository
 
+This repository is no longer maintained.
+
+✅ The updated and consolidated version of this task is available here:  
+👉 https://github.com/atharmshaikh/data-analyst-internship-tasks/tree/main/Task-01_Data-Cleaning-and-Preprocessing
